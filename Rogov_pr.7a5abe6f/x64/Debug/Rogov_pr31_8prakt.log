@@ -1,3 +1,6 @@
 ﻿  Rogov_pr31_8prakt.cpp
-C:\Users\st310-05\Desktop\rogov\Rogov_pr31_8prakt\Rogov_pr31_8prakt.cpp(16,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Rogov_pr31_8prakt.vcxproj -> C:\Users\st310-05\Desktop\rogov\Rogov_pr31_8prakt\x64\Debug\Rogov_pr31_8prakt.exe
+C:\GARIEV\Rogov_pr31_8prakt\Rogov_pr31_8prakt.cpp(12,21): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+C:\GARIEV\Rogov_pr31_8prakt\Rogov_pr31_8prakt.cpp(12,21): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+C:\GARIEV\Rogov_pr31_8prakt\Rogov_pr31_8prakt.cpp(13,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\GARIEV\Rogov_pr31_8prakt\Rogov_pr31_8prakt.cpp(67,77): warning C4312: приведение типов: преобразование из "int" в "void *" большего размера
+  Rogov_pr31_8prakt.vcxproj -> C:\GARIEV\Rogov_pr31_8prakt\x64\Debug\Rogov_pr31_8prakt.exe
